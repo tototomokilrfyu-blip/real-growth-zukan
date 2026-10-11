@@ -1,0 +1,10 @@
+{
+  "name": "real-ikusei-zukan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "リアル育成図鑑 Webアプリ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
